@@ -9,7 +9,7 @@
   <scm>
     <connection>scm:git:https://github.com/Nikhila18/Maven_practise.git</connection>
 	<developerConnection>scm:git:https://github.com/Nikhila18/Maven_practise.git</developerConnection>
-    <tag>simple-maven1.0_tag</tag>
+    <tag>simple-maven2.0_tag</tag>
   </scm>
   
   <distributionManagement>
