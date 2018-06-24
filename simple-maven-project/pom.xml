@@ -7,7 +7,7 @@
   <scm>
     <connection>scm:git:https://github.com/Nikhila18/Maven_practise.git</connection>
 	<developerConnection>scm:git:https://github.com/Nikhila18/Maven_practise.git</developerConnection>
-    <tag>HEAD</tag>
+   
   </scm>
   
   <distributionManagement>
